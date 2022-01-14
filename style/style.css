@@ -63,6 +63,7 @@ main {
     font-size: 15px;
     margin-left: 5px;
 }
+
 /*MODIFICHE SEZIONE NEW TASK:*/
 .new-task {
     vertical-align: middle;
@@ -107,6 +108,7 @@ ul {
     font-size: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 /*MODIFICHE SEZIONE TODAY:*/
 .today {
     padding-top: 30px;
@@ -132,4 +134,24 @@ padding-top: 10px;
 .orange {
     background-color: orangered;
     border-color: orangered;
+}
+
+/*MODIFICHE SEZIONE UPCOMING:*/
+.upcoming {
+    padding-top: 30px;
+}
+.pink {
+    background-color: orchid;
+    border-color: orchid;
+}
+.yellow {
+    background-color: yellowgreen;
+    border-color: yellowgreen;
+}
+
+/*FOOTER:*/
+footer {
+    font-size: 30px;
+    color: palevioletred;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
