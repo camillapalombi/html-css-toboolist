@@ -1,0 +1,10 @@
+/*MODIFICHE HEADER:*/
+.logo {
+    vertical-align: middle;
+}
+
+.title {
+    vertical-align: middle;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
