@@ -3,6 +3,7 @@
     padding: 0;
 }
 /*MODIFICHE HEADER:*/
+
 .logo {
     vertical-align: middle;
 }
@@ -20,6 +21,7 @@ header {
 }
 
 /*CREATO SFONDO GRIGIO E CONTENITORE BIANCO:*/
+
 .white-box {
     background-color: rgb(253, 252, 252);
     width: 800px;
@@ -33,4 +35,31 @@ main {
     background-color: rgb(230, 224, 224);
     height: 1500px;
     height: 1000px;
+}
+
+/*CREATI BOTTONI:*/
+
+.button {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.task {
+    background-color: rgb(47, 131, 228);
+    padding: 10px 15px;
+    border-radius: 15px;
+    border-color: rgb(47, 131, 228);
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.section {
+    background-color:white;
+    padding: 10px 20px;
+    border-radius: 15px;
+    border-color: rgb(187, 184, 184);
+    color: rgb(187, 184, 184);
+    font-size: 20px;
+    margin-left: 5px;
 }
