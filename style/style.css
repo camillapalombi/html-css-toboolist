@@ -50,7 +50,7 @@ main {
     border-radius: 15px;
     border-color: rgb(47, 131, 228);
     color: white;
-    font-size: 20px;
+    font-size: 15px;
     margin-left: 30px;
 }
 
@@ -60,6 +60,49 @@ main {
     border-radius: 15px;
     border-color: rgb(187, 184, 184);
     color: rgb(187, 184, 184);
-    font-size: 20px;
+    font-size: 15px;
     margin-left: 5px;
+}
+/*MODIFICHE SEZIONE NEW TASK:*/
+.new-task {
+    vertical-align: middle;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.simbol {
+    vertical-align: middle;
+}
+.conteiner {
+    padding-top: 30px;
+    padding-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+ul {
+    list-style: none;
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+.check {
+    border: 1px solid rgb(58, 238, 58);
+    border-radius: 50px;
+    color:rgb(58, 238, 58) ;
+    vertical-align: bottom;
+}
+.newsletter {
+    padding-left: 15px;
+    vertical-align: middle;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.editorial {
+    vertical-align: bottom;
+    background-color: rgb(47, 131, 228);
+    border: 1px solid rgb(47, 131, 228) ;
+    border-radius: 15px;
+    padding: 5px;
+    color: white;
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
