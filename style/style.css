@@ -2,13 +2,14 @@
     margin: 0;
     padding: 0;
 }
+
 /*MODIFICHE HEADER:*/
 
 .logo {
     vertical-align: middle;
 }
 
-.title {
+.title1 {
     vertical-align: middle;
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -44,6 +45,7 @@ main {
     margin-bottom: 15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 .task {
     background-color: rgb(47, 131, 228);
     padding: 10px 15px;
@@ -65,13 +67,15 @@ main {
 }
 
 /*MODIFICHE SEZIONE NEW TASK:*/
-.new-task {
+.title3 {
     vertical-align: middle;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 .simbol {
     vertical-align: middle;
 }
+
 .conteiner {
     padding-top: 30px;
     padding-left: 40px;
@@ -83,22 +87,22 @@ ul {
     list-style: none;
     font-size: 20px;
     margin-top: 10px;
-    
-    
 }
+
 .check {
     border: 1px solid rgb(58, 238, 58);
     border-radius: 50px;
     color:rgb(58, 238, 58) ;
     vertical-align: bottom;
 }
-.newsletter {
+
+.list-item {
     padding-left: 15px;
     vertical-align: middle;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
 }
-.ticket {
+
+.tag {
     vertical-align: bottom;
     background-color: rgb(47, 131, 228);
     border: 1px solid rgb(47, 131, 228) ;
@@ -113,24 +117,28 @@ ul {
 .today {
     padding-top: 30px;
 }
+
 .viola {
     background-color: rgb(173, 39, 173);
     border-color: rgb(173, 39, 173);
 }
+
 li {
 padding-top: 10px;
 }
+
 .cross {
     border: 1px solid red;
     border-radius: 50px;
     color:red ;
     vertical-align: bottom;
-
 }
+
 .green {
     background-color: rgb(104, 172, 133);
     border-color:rgb(104, 172, 133) ;
 }
+
 .orange {
     background-color: orangered;
     border-color: orangered;
@@ -140,10 +148,12 @@ padding-top: 10px;
 .upcoming {
     padding-top: 30px;
 }
+
 .pink {
     background-color: orchid;
     border-color: orchid;
 }
+
 .yellow {
     background-color: yellowgreen;
     border-color: yellowgreen;
